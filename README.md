@@ -1,5 +1,5 @@
 ### Hi there 👋
-- My name is John Kounatidis and currently working as Python Web Developer at GeoAnalysis S.A.
+- My name is John Kounatidis and currently working as Python Backend Developer.
 - I working with Python frameworks Flask and Django.
 - But also i have experience with JavaScript framework Angular.
 
